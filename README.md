@@ -1,5 +1,8 @@
 # Task Tracker CLI
 
+Project URL:
+https://github.com/DeepthiPavurala/task-tracker-cli
+
 ## Overview
 
 Task Tracker CLI is a command-line application built in Python that allows users to manage tasks efficiently. It supports creating, updating, deleting, and tracking tasks with persistent storage using a JSON file.
@@ -113,5 +116,3 @@ The application handles:
 * Add custom exceptions
 * Add logging support
 
-## Project URL
-https://github.com/DeepthiPavurala/task-tracker-cli
