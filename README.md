@@ -112,3 +112,6 @@ The application handles:
 * Improve CLI output formatting(tables, colors)
 * Add custom exceptions
 * Add logging support
+
+## Project URL
+https://github.com/DeepthiPavurala/task-tracker-cli
