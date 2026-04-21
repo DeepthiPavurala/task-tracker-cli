@@ -1,7 +1,7 @@
 # Task Tracker CLI
 
 Project URL:
-https://github.com/DeepthiPavurala/task-tracker-cli
+https://roadmap.sh/projects/task-tracker
 
 ## Overview
 
